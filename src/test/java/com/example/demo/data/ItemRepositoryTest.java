@@ -16,11 +16,11 @@ public class ItemRepositoryTest {
 	@Autowired
 	private ItemRepository repository;
 	
-	@Test
+	/*@Test
 	public void testFindAll() {
 		List<Item> items = repository.findAll();
 		assertNotEquals(3,items.size());
-	}
+	}*/
 
 	/*@Test
 	public void testFindOne() {
