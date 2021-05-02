@@ -1,0 +1,4 @@
+com/example/demo/data/ItemRepositoryTest.class
+com/example/demo/controller/ItemControllerTest.class
+com/example/demo/ItemServiceApplicationTests.class
+com/example/demo/business/ItemBusinessServiceTest.class
